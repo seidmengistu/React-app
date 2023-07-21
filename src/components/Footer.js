@@ -39,16 +39,16 @@
               <a href="tel:+251968983297" className='mt-2 d-block mb-2 text-white'>+251 968 983 207</a>
               <a href="mailto:seidmengistu88@gmail.com" className='mt-2 d-block mb-2 text-white'>seidmengistu88@gmail.com</a>
               <div className='social_icons d-flex align-items-center gap-30'>
-                 <a href="" className='text-white'>
+                 <a href="#" className='text-white'>
                   <BsLinkedin className=' fs-4'/>
                  </a>
-                 <a href="" className='text-white'>
+                 <a href="#" className='text-white'>
                   <BsInstagram className='fs-4'/>
                  </a>
-                 <a href="" className='text-white'>
+                 <a href="#" className='text-white'>
                   <BsGithub className='fs-4'/>
                  </a>
-                 <a href="" className='text-white'>
+                 <a href="#" className='text-white'>
                   <BsYoutube className='fs-4'/>
                  </a>
               </div>
